@@ -1,0 +1,10 @@
+PODS:
+  - JSMessagesViewController (1.1.0)
+
+DEPENDENCIES:
+  - JSMessagesViewController
+
+SPEC CHECKSUMS:
+  JSMessagesViewController: 0e2c2787ea17a81be9c6a2be2669ca4819e0cba9
+
+COCOAPODS: 0.18.1
